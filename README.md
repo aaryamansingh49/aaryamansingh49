@@ -2,7 +2,9 @@
 Full Stack Developer specializing in the MERN Stack. experience in building responsive front-end interfaces and scalable
 back-end APIs using React.js, Next.js, Node.js, Express.js, and MongoDB. Focused on delivering smooth user experiences and
 writing clean, maintainable code.
+```
 Open to freelance projects and collaborations.
+```
 
 
 ## 🌐 Socials:
