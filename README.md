@@ -20,6 +20,6 @@ Open to freelance projects and collaborations.
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=aaryamansingh49&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
